@@ -4,10 +4,6 @@
 
 - 🔭 I’m currently working on [Habitio](https://habitio.netlify.app/)
 
-- 📝 I am starting to write articles on [https://dev.to/](https://dev.to/)
-
-- 📫 How to reach me **dinhplnguyen@gmail.com**
-
 - ⚡ Fun fact **I shift between many books while reading**
 
 ### Connect with me
