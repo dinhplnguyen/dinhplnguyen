@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dinh</h1>
-<h3 align="center">A passionate software developer from Vancouver, BC.</h3>
+<h3>Hey, this is Dinh!</h3>
 
 
 - 🔭 I’m currently working on [Habitio](https://habitio.netlify.app/)
