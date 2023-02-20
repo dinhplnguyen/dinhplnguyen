@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working on [Habitio](https://habitio.netlify.app/)
 
+- 👯 I’m looking to collaborate on any open source projects
+
 - ⚡ Fun fact **I shift between many books while reading**
 
 ### Connect with me
